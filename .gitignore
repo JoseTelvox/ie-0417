@@ -47,6 +47,73 @@
 *.cmd
 .tmp_versions/
 modules.order
+# Compiled object files, shared libraries, and executables
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# C/C++ cache files
+*.d
+*.gcda
+*.gcno
+*.gcov
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+*.swp
+*.bak
+*.tmp
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# Test and coverage files
+.coverage
+*.gcov
+nosetests.xml
+pytest_cache/
+
+# Misc
+*.iml
+
 Module.symvers
 Mkfile.old
 dkms.conf
