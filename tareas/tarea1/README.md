@@ -30,7 +30,9 @@ ClickUp es una plataforma de gestión de proyectos de desarrollo de software que
 
 ## Relación con metodologías ágiles
 
-Para *Scrum*, ofrece creación de *sprints*, *burndown charts* y priorización de *backlog*.
+Para *Scrum*, ofrece creación de *sprints*, *burndown charts* y priorización de *backlog*. ClickUp cuenta con Visualización de tareas en diferentes estados por medio de tableros Scrum. Permite gestonar sprints de desarrollo. Y da seguimiento del progreso con gráficos burndown y dashboards personalizables. Mientas, para *Kanban* tiene tableros que cumple con esta metodología. Ademas, el análisis del rendimiento mediante gráficos de flujo acumulativo, es una de las metricas que se pueden explorar dentro de la plataforma.
+
+
 
 # Trello
 
