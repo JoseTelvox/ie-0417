@@ -1,0 +1,3 @@
+[submodule "Lab2/Lab2/QuantLib"]
+	path = Lab2/Lab2/QuantLib
+	url = https://github.com/lballabio/QuantLib.git
