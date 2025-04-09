@@ -1,0 +1,13 @@
+# Doxyfile
+PROJECT_NAME           = "Complex Software Project"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = main.cpp
+FILE_PATTERNS          = *.cpp *.h
+RECURSIVE              = NO
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_METHODS  = YES
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
