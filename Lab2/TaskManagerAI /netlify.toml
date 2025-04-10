@@ -1,0 +1,11 @@
+[build]
+  publish = "TaskManagerAI/docs/build/html"
+  command = "make -C TaskManagerAI/docs html"
+
+[build.environment]
+  PYTHON_VERSION = "3.10"  # Asegúrate que coincide con la versión que usas
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
