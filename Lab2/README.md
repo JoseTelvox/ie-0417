@@ -1,0 +1,40 @@
+# Laboratorio 2  
+**Control de versiones y documentación automática**
+
+---
+
+## Parte 1 – Git y control de versiones
+
+### 🔗 Sitio interactivo
+Acceder al siguiente sitio: [Learn Git Branching](https://learngitbranching.js.org/)
+
+### ✅ Actividad
+Completar todos los ejercicios disponibles, **excepto** la sección **“Temas avanzados”**.
+
+---
+
+## Parte 2 – Documentación automática en C++ y Python
+
+### 🎯 Objetivo
+Seleccionar dos proyectos de software:
+
+- Uno en **C++**
+- Uno en **Python**
+
+Ambos proyectos deben:
+
+- Ser amplios
+- Tener comentarios adecuados para documentación automática
+
+> Puedes utilizar proyectos propios, existentes de internet o generados con ayuda de ChatGPT.  
+> **Importante:** No modificar la lógica del código, solo agregar o adaptar comentarios si es necesario.
+
+---
+
+### 🛠️ Generación de documentación
+
+- **C++** → Utilizar **Doxygen**
+- **Python** → Utilizar **Sphinx**
+- Generar documentación en **formato HTML**
+
+---
