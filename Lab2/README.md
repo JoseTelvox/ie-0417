@@ -38,3 +38,10 @@ Ambos proyectos deben:
 - Generar documentación en **formato HTML**
 
 ---
+
+### 🌐 Publicación
+
+Alojar la documentación en línea usando servicios gratuitos de hosting estático, por ejemplo:
+
+Python deploy: https://spontaneous-crumble-7ceec4.netlify.app/app
+C++ deploy: https://lab2hostingc-c8kd135h0-josetelvoxs-projects.vercel.app/
