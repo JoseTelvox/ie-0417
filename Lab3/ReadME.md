@@ -136,4 +136,4 @@
 
 ## Diagrama UML
 
-![Diagrama UML](./img/diagrama_uml.png)
+![Diagrama UML](./Lab06E05.png)
