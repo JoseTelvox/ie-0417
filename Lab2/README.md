@@ -48,6 +48,11 @@ Alojar la documentación en línea usando servicios gratuitos de hosting estáti
 
 ### 📝 Anexos
 
-![Anexos](./ie-0417/Lab2/Seccion1/ejemplo1.png)
-![Anexos2](./ie-0417/Lab2/Seccion1/ejemplo2.png)
+![Anexo 1](./Seccion1/ejemplo1.png)
+![Anexo 2](./Seccion1/ejemplo2.png)
+![Anexo 3](./Seccion1/ejemplo3.png)
+![Anexo 4](./Seccion1/ejemplo4.png)
+![Remotos Terminados](./Seccion1/remoteTerminados.png)
+![Main Terminado](./Seccion1/mainTerminado.png)
+
 
