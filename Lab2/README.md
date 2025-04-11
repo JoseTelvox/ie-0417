@@ -48,9 +48,9 @@ Alojar la documentación en línea usando servicios gratuitos de hosting estáti
 
 ### 📝 Anexos
 
-![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/ejemplo1.jpeg)
-![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/ejemplo2.jpeg)
-![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/ejemplo3.jpeg)
-![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/ejemplo4.jpeg)
-![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/remoteTerminados.jpeg)
-![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/mainTerminado.jpeg)
+![Anexos](./ie-0417/Lab2/Seccion1/ejemplo1.jpeg)
+![Anexos](./ie-0417/Lab2/Seccion1/ejemplo2.jpeg)
+![Anexos](./ie-0417/Lab2/Seccion1/ejemplo3.jpeg)
+![Anexos](./ie-0417/Lab2/Seccion1/ejemplo4.jpeg)
+![Anexos](./ie-0417/Lab2/Seccion1/remoteTerminados.jpeg)
+![Anexos](./ie-0417/Lab2/Seccion1/mainTerminado.jpeg)
