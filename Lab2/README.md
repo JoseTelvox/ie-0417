@@ -43,5 +43,14 @@ Ambos proyectos deben:
 
 Alojar la documentación en línea usando servicios gratuitos de hosting estático, por ejemplo:
 
-Python deploy: https://spontaneous-crumble-7ceec4.netlify.app/app
-C++ deploy: https://lab2hostingc-c8kd135h0-josetelvoxs-projects.vercel.app/
+- Python deploy: https://spontaneous-crumble-7ceec4.netlify.app/app
+- C++ deploy: https://lab2hostingc-c8kd135h0-josetelvoxs-projects.vercel.app/
+
+### 📝 Anexos
+
+![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/ejemplo1.jpeg)
+![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/ejemplo2.jpeg)
+![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/ejemplo3.jpeg)
+![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/ejemplo4.jpeg)
+![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/remoteTerminados.jpeg)
+![Anexos](/Users/joseacevedo/Documents/GitHub/ie-0417/Lab2/Seccion1/mainTerminado.jpeg)
