@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clientes</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container mt-4">
+    <h1>Lista de Clientes</h1>
+    <form method="get" class="mb-3">
+        <input type="text" name="buscar" value="{{ buscar }}" class="form-control" placeholder="Buscar por nombre">
+    </form>
+    <a href="{% url 'nuevo_cliente' %}" class="btn btn-primary mb-3">Nuevo Cliente</a>
+    <ul class="list-group">
+        {% for cliente in clientes %}
+            <li class="list-group-item">{{ cliente.nombre }} - {{ cliente.correo }} - {{ cliente.telefono }}</li>
+        {% empty %}
+            <li class="list-group-item">No hay clientes</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
