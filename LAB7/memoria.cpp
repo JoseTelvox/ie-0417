@@ -12,3 +12,5 @@ int main() {
     funcion1();
     return 0;
 }
+sudo rm -rf /Library/Developer/CommandLineTools
+xcode-select --install
