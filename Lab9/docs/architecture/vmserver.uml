@@ -1,0 +1,14 @@
+@startuml
+node "VM / Server" {
+  [Docker Compose]
+  frame "Container: nginx" {
+    [nginx 1.24] --> [Gunicorn + Django]
+  }
+  frame "Container: django" {
+    [Gunicorn + Django] 
+  }
+  frame "Container: db" {
+    database "PostgreSQL 14"
+  }
+}
+@enduml
